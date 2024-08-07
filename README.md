@@ -40,3 +40,6 @@ After login /Signup,
 ## Conversation History
 
 The conversation history is loaded from the `conversation_history.json` file. You can customize the conversation or extend it as needed.
+
+## Link to my deployed code
+https://sereni-chat.streamlit.app/
