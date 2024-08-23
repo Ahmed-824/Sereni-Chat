@@ -42,4 +42,7 @@ After login /Signup,
 The conversation history is loaded from the `conversation_history.json` file. You can customize the conversation or extend it as needed.
 
 ## Link to my deployed code
-https://sereni-chat.streamlit.app/
+https://sereni-chat-final.streamlit.app/
+
+## Analytics
+To check app traffic, go to https://streamlit.io/ log in with testbotversion001@gmail.com and click on analytics to see who has logged in
